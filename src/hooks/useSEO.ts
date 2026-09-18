@@ -43,8 +43,11 @@ export function useSEO({ title, description }: SEOProps) {
     setMeta('property', 'og:url', url)
     setMeta('property', 'og:type', 'website')
 
+    setMeta('property', 'og:image', `${siteUrl}/og-image.png`)
+
     setMeta('name', 'twitter:card', 'summary_large_image')
     setMeta('name', 'twitter:title', fullTitle)
     setMeta('name', 'twitter:description', description)
+    setMeta('name', 'twitter:image', `${siteUrl}/og-image.png`)
   }, [title, description, pathname])
 }

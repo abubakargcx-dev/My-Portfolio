@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://abubakar-portfolio.vercel.app/</loc></url>
-  <url><loc>https://abubakar-portfolio.vercel.app/journey</loc></url>
-  <url><loc>https://abubakar-portfolio.vercel.app/projects</loc></url>
-  <url><loc>https://abubakar-portfolio.vercel.app/craft</loc></url>
-  <url><loc>https://abubakar-portfolio.vercel.app/experience</loc></url>
-  <url><loc>https://abubakar-portfolio.vercel.app/contact</loc></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/</loc><lastmod>2026-09-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/journey</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/projects</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/craft</loc><lastmod>2026-09-18</lastmod><priority>0.7</priority></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/experience</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://abubakar-portfolio.vercel.app/contact</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
 </urlset>
