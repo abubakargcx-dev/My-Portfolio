@@ -1,4 +1,4 @@
-export const siteUrl = 'https://abubakar-portfolio.vercel.app'
+export const siteUrl = 'https://abubakargcx.vercel.app'
 
 export const personal = {
   name: 'AbuBakar Ghafoor',
